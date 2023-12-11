@@ -53,8 +53,6 @@ https://ssh101.bozztv.com/ssh101/OrbitaTV25/playlist.m3u8
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.elim.org.sv/wp-content/uploads/2016/07/ELIM-TV-PROFILE-2.png",ELIM TV
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/playlist.m3u8
-#EXTINF:-1 ,ENLACE
-https://1-221-11554-1.b.cdn13.com:443/EnlaceTV/smil:enlace-hd.smil/chunklist_b1712000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmlAwfz6rLpUr48-parZDIcPPGdGLRsfPLSo-cj1GkrwTLTDlTfrYFrlyq8uJNZHFktgY&usqp=CAU",EL CAMINO TV
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/cr-extreme-tv-4084-768x576.jpg",EXTREMA
