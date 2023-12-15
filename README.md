@@ -62,7 +62,7 @@ https://rt-esp.rttv.com:443/live/rtesp/playlist_800Kb.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/canal-mas-television-5347.jpg",MAS TV
 https://movil.ejeserver.com/live/teledoradahd.m3u8
 #EXTINF:-1,A&E
-http://168.181.122.234:8000/play/a010/index.m3u8
+http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/km-Yd_joQNwRduGOPjI3hBbcLGNgCEjZYnILj_2VT7Qvezmdt-iYXc7UjpY6jwi0UquzHUVd=s900-c-k-c0x00ffffff-no-rj",AGROTENDENCIA
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png",WOW TV
