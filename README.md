@@ -42,7 +42,7 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canal-21.png",MEGAVISION CANAL 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
 #EXTINF:-1,Space
-http://181.78.105.146:2000/play/a04x
+http://pe.shortgod.com/zaapw21e/tv10.php?id=11112-livetv
 #EXTINF:-1 tvg-logo="https://tvocanal23.com/wp-content/uploads/2020/10/logo.png",TVO CANAL 23
 http://168.227.22.18:1935/live/mobile-071/playlist.m3u8
 #EXTINF:-1,Cinecanal
@@ -59,8 +59,6 @@ http://pe.shortgod.com/zaapw21e/tv10.php?id=79809-livetv
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
 #EXTINF:-1 ,AZ CINEMA
 http://nxt.plus:8080/jesus01/jesus01/160510
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/655f7192ce580c733dda2fd1fc4f202b.webp",RETRO PLUS 3
-https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png",WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 #EXTINF:-1 tvg-logo="https://alianzafc.com.sv/wp-content/uploads/2023/04/ColorLogoTCS.png",TCS PLUS
